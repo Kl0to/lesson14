@@ -22,3 +22,7 @@
 3- 1001000110100_ДДС
 
 4- 17869
+
+5-Факториальная система счисления-Позиционная система счисления, в которой используются факториалы. Иными словами, мы записываем любое натуральное число N в виде (https://foxford.ru/wiki/matematika/faktorialnaya-sistema-schisleniya?srsltid=AfmBOoqzYGRkiHN9XcywbrFFyivUtvyaBhpL9oexbSTfCpGB9nO9nxxF&utm_referrer=https%3A%2F%2Fwww.google.com%2F)
+
+  Фибоначчиева система счисления-Система счисления, в котором в качестве основания используются числа Фибоначчи . При этом цифры могут принимать только значения либо 0, либо 1 и при этом накладывается дополнительное условие, что две соседние цифры не могу быть единицами (https://foxford.ru/wiki/matematika/fibonachchieva-sistema-schisleniya?srsltid=AfmBOooAzAt4tKln1lelCcXvXIcyjA3NxXlMrrVTgUCw70kn0ydxJHES)
